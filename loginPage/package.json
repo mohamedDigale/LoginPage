@@ -1,0 +1,11 @@
+{
+  "name": "loginpage",
+  "version": "1.0.0",
+  "description": "Create a simple login page for website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed.A.Mohamed",
+  "license": "ISC"
+}
